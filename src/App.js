@@ -3,6 +3,7 @@ import React from 'react';
 
 import './App.css';
 import Navbar from './components/Navbar';
+import Home from './components/pages/Home';
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/' exact />
+          <Route path='/' exact component={Home} />
           <Route path='/services' exact />
           <Route path='/products' exact />
           <Route path='/sign-up' exact />
