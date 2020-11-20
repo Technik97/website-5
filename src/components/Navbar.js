@@ -23,6 +23,8 @@ const Navbar = () => {
         showButton()
     }, []);
 
+    window.addEventListener("resize", showButton);
+
     return (
         <>
         <nav className="navbar">
