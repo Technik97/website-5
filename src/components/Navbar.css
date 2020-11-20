@@ -29,9 +29,10 @@
   align-items: center;
 }
 
-.fa-typo3 {
+.fa-meteor {
   margin-left: 0.5rem;
   font-size: 1.8rem;
+  color: #ff6f34;
 }
 
 .nav-menu {
@@ -50,7 +51,7 @@
 }
 
 .nav-links {
-  color: #f7069e;
+  color: #0094e0;
   display: flex;
   align-items: center;
   text-decoration: none;

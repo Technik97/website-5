@@ -7,7 +7,7 @@ import '../App.css';
 const HeroSection = () => {
     return (
         <div className="hero-container">
-            <video src="/videos/skylapse1.mp4" autoPlay loop muted />
+            <video src="/videos/skylapse2.mov" autoPlay loop muted />
             <h1>TRAVEL THE SPACE</h1>
             <p>It is Amazing</p>
             <div className="hero-btns">
