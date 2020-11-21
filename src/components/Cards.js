@@ -17,7 +17,7 @@ const Cards = () => {
                             path="/services"
                         />
                         <CardItem 
-                            src={"images/526200.jpg"}
+                            src={"images/img-3.jpg"}
                             text="check the space out"
                             label="Sci-Fi"
                             path="/services"
@@ -25,19 +25,19 @@ const Cards = () => {
                     </ul>
                     <ul className="cards__items">
                         <CardItem 
-                            src={"images/526200.jpg"}
+                            src={"images/img-5.jpg"}
                             text="check the space out"
                             label="Sci-Fi"
                             path="/services"
                         />
                         <CardItem 
-                            src={"images/526200.jpg"}
+                            src={"images/img-6.jpg"}
                             text="check the space out"
                             label="Sci-Fi"
                             path="/services"
                         />
                         <CardItem 
-                            src={"images/526200.jpg"}
+                            src={"images/img-7.jpg"}
                             text="check the space out"
                             label="Sci-Fi"
                             path="/services"

@@ -92,6 +92,14 @@ const Footer = () => {
                         >
                             <i class = "fab fa-twitter" />
                         </Link>
+                        <Link 
+                            className="social-icon-link github"
+                            to="/https://github.com/Technik97"
+                            target="_blank"
+                            aria-label="Github"
+                        >
+                            <i class = "fab fa-github" />
+                        </Link>
                     </div>
                 </div>
             </section>
